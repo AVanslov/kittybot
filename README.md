@@ -4,6 +4,12 @@
 
 Телеграм бот был создан для тренировки работы с библиотекой python-telegram-bot.
 
+## Языки и библиотеки
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![Telegram API](https://img.shields.io/badge/-python_telegram_bot-black?style=for-the-badge&logo=telegram)
+![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
+![OS](https://img.shields.io/badge/-.env-black?style=for-the-badge&logo=OS)
+
 ## Установка
 
 ***Клонировать репозиторий и перейти в него в командной строке:***
@@ -31,10 +37,9 @@ pip install -r requirements.txt
 
 ***Как заполнить .env:***
 
-```
-TOKEN=здесь впишите token, который вам отправит бот [BotFather](https://t.me/BotFather) после создания бота
-CHAT_ID=chat_id можно получить у этого [бота](https://t.me/userinfobot) - значение id - это ваш chat_id 
-```
+**TOKEN=** здесь впишите token, который вам отправит бот [BotFather](https://t.me/BotFather) после создания бота
+
+**CHAT_ID=** можно получить у этого [бота](https://t.me/userinfobot) - значение id - это ваш chat_id 
 
 ## Запуск проекта
 
